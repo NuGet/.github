@@ -27,6 +27,7 @@ configuration:
          - learn-build-service-ppe[bot]
          - learn-build-service-prod[bot]
          - dotnet-policy-service[bot]
+         - nugetteambot[bot]
          - CBL-Mariner-Bot
          - pbicvbot
          - acomghbot
